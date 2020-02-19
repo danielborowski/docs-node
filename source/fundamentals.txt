@@ -10,6 +10,6 @@ Fundamentals
    /fundamentals/authentication
    /fundamentals/crud
    /fundamentals/indexes
-   /fundamentals/collations
+   /fundamentals/collations 
    /fundamentals/logging
    /fundamentals/monitoring
