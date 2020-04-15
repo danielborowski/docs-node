@@ -3,7 +3,7 @@ Fundamentals
 ============
 
 .. default-domain:: mongodb
-
+s
 .. toctree::
 
    /fundamentals/connection
